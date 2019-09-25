@@ -1,0 +1,1 @@
+Uncompress SDL2 to this directory
